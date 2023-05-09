@@ -10,3 +10,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sajjad-jalilyan-50921b239/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SajjadJln)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajjadjln&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajjadjln&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjln&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
