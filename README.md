@@ -7,3 +7,5 @@
 - 🗣 Languages: [**C#** ❤️](https://learn.microsoft.com/en-us/dotnet/csharp/) - [Dotnet](https://dotnet.microsoft.com/en-us/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [persian](https://en.wikipedia.org/wiki/Persian_language) - [English](https://en.wikipedia.org/wiki/English_language)
 
 - 📫 You can reach me at sajjadjlm1999@gmail.com
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-jalilyan-50921b239/))
