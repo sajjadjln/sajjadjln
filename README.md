@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://skillicons.dev/icons?i=cs,postgres,git,github,bash,dotnet&perline=16" alt="Tech Stack" /> </p>
 
-- 🗣 Languages: [**C#** ❤️](https://learn.microsoft.com/en-us/dotnet/csharp/) - [Dotnet](https://dotnet.microsoft.com/en-us/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [persian](https://en.wikipedia.org/wiki/Persian_language) - [English](https://en.wikipedia.org/wiki/English_language)
+- 🗣 Languages: [**C#** ❤️](https://learn.microsoft.com/en-us/dotnet/csharp/) - [Dotnet](https://dotnet.microsoft.com/en-us/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Persian](https://en.wikipedia.org/wiki/Persian_language) - [English](https://en.wikipedia.org/wiki/English_language)
 
 - 📫 You can reach me at sajjadjlm1999@gmail.com
 ## 🌐 Socials:
@@ -12,6 +12,4 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SajjadJln)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sajjadjln&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajjadjln&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadjln&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadjln&show_icons=true&theme=transparent)
