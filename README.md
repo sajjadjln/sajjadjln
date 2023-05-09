@@ -8,4 +8,4 @@
 
 - 📫 You can reach me at sajjadjlm1999@gmail.com
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-jalilyan-50921b239/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-jalilyan-50921b239/)
