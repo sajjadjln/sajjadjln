@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm sajjad jalilian</h1>
-<h3 align="center">Programmer.</h3>
+<h3 align="center">Developer;</h3>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=cs,postgres,git,github,javascript,dotnet&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=androidstudio,git,github,cs&perline=16" alt="Tech Stack" /> </p>
 
 - 🗣 Languages: [**C#** ❤️](https://learn.microsoft.com/en-us/dotnet/csharp/) - [Dotnet](https://dotnet.microsoft.com/en-us/) - [Persian](https://en.wikipedia.org/wiki/Persian_language) - [English](https://en.wikipedia.org/wiki/English_language)
 
